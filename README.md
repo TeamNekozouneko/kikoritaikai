@@ -96,6 +96,3 @@ This is just a novelty plugin — for fun.
 
 ## Localization
 This plugin includes default message files for easy localization: `messages.yml` (English, default), `messages_ja.yml` (Japanese), `messages_zh.yml` (Simplified Chinese), `messages_ru.yml` (Russian), and `messages_fr.yml` (French). Edit the appropriate file in the plugin folder and run `/kreload` to apply changes.
-
-## Localization
-This plugin includes default message files for easy localization: `messages.yml` (English, default), `messages_ja.yml` (Japanese), `messages_zh.yml` (Simplified Chinese), `messages_ru.yml` (Russian), and `messages_fr.yml` (French). Edit the appropriate file in the plugin folder and run `/kreload` to apply changes.
