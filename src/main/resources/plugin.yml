@@ -1,0 +1,30 @@
+name: KikoriTaikai
+version: 1.0.0
+main: com.nekozodev.kikoritaikai.KikoriTaikaiPlugin
+api-version: 1.21
+authors:
+  - NekozoDev
+
+commands:
+  kstart:
+    description: Start the game
+    permission: kikoritaikai.op
+  kstop:
+    description: Stop the game (show results)
+    permission: kikoritaikai.op
+  kclear:
+    description: Clear rankings
+    permission: kikoritaikai.op
+  kreload:
+    description: Reload the config
+    permission: kikoritaikai.op
+  kconfirmclear:
+    description: Confirm clearing rankings
+    permission: kikoritaikai.op
+  kcancelclear:
+    description: Cancel clearing rankings
+    permission: kikoritaikai.op
+
+permissions:
+  kikoritaikai.op:
+    default: op
